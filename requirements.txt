@@ -1,0 +1,6 @@
+requests
+pandas
+python-telegram-bot==20.0
+numpy
+scikit-learn
+vaderSentiment
